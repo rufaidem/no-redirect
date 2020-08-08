@@ -10,7 +10,7 @@ iam not responsible for any illegal activity that done using this tool .
 
 3)boom use got access to admin page with out authorization
 
-we can bypass all the website using noredirect
+we can't bypass all the website using noredirect
 
 try to understand things 
 
